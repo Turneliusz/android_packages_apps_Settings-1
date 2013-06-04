@@ -603,6 +603,12 @@ zarówno edytować poziom jasności otoczenia dla danego punktu kontrolnego, jak
 pożądaną jasność ekranu. Wybranie \'Podziel\' pozwala przekształcić jeden pasek w
 dwa nowe, odpowiadające kolejnym punktom kontrolnym. \'Usuń\' kasuje wybrany pasek.
     </string>
+    <string name="auto_brightness_sensitivity_title">Czułość</string>
+    <string name="auto_brightness_sensitivity_verylow">Bardzo niska</string>
+    <string name="auto_brightness_sensitivity_low">Niska</string>
+    <string name="auto_brightness_sensitivity_medium">Średnia</string>
+    <string name="auto_brightness_sensitivity_high">Wysoka</string>
+    <string name="auto_brightness_sensitivity_veryhigh">Bardzo wysoka</string>    
     <string name="advanced_reboot_title">Zaawansowany restart</string>
     <string name="advanced_reboot_summary">Umożliwia ponowne uruchomienie urządzenia w trybie recovery lub bootloadera</string>
     <string name="root_access">Dostęp do roota</string>
@@ -643,6 +649,11 @@ dwa nowe, odpowiadające kolejnym punktom kontrolnym. \'Usuń\' kasuje wybrany p
     <string name="pie_control_trigger_right">Prawa krawędź ekranu</string>
     <string name="pie_control_trigger_top">Górna krawędź ekranu</string>
     <string name="pie_control_trigger_top_summary">Przy górnej krawędzi będzie wyświetlana jedynie nawigacja</string>
+    <string name="pie_control_sensitivity_title">Czułość</string>
+    <string name="pie_control_sensitivity_low">Niska</string>
+    <string name="pie_control_sensitivity_medium">Średnia</string>
+    <string name="pie_control_sensitivity_high">Wysoka</string>
+    <string name="pie_control_sensitivity_very_high">Bardzo wysoka</string>
     <string name="volume_adjust_sounds_enable_title">Dźwięk regulacji głośności</string>
     <string name="volume_adjust_sounds_enable_summary">Odtwarzaj dźwięk podczas regulacji głośności za pomocą przycisków</string>
     <string name="accessibility_home_button_answers_call_prerefence_title">Odbieraj połączenia przyciskiem home</string>
